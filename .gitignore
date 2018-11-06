@@ -1,0 +1,8 @@
+project/assets/dataset/
+project/assets/extended-cohn-kanade-images/
+*.jpg
+*.JPG
+*.csv
+*.zip
+*.xml
+modelname
