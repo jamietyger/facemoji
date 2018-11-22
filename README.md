@@ -24,7 +24,7 @@ Current emotions supported are `happy`,`angry`, `neutral` and `suprised`
 
 ### After:
 
-![Screenshot](after.jpeg)
+![Screenshot](after1.jpeg)
 
 ## Requirements
 
